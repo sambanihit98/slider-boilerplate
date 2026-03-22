@@ -54,7 +54,7 @@
   
               <script>
                   window.addEventListener('load', () => {
-                      const track = document.querySelector('.slider-track');
+                      // const track = document.querySelector('.slider-track'); 
                       let items = Array.from(track.children);
   
                       const maxVisible = 4;
