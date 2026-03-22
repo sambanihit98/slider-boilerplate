@@ -12,7 +12,6 @@
   <section class="section-wrap">
       <div style="background: #efeaf7;">
   
-  
           <div class="container">
   
               <div class="slider-container">
